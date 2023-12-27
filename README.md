@@ -1,4 +1,4 @@
-<h1 align="center">  Projeto spring-boot-3-desenvolva-api-rest-java (Alura)</h1>
+<h1 align="center"> Java e Spring Boot (Alura)</h1>
 
 
 ## 🚀 Tecnologias
